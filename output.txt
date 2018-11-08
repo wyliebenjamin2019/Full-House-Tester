@@ -1,0 +1,9 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=50355:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\bwyli\IdeaProjects\Full House Tester\out\production\Full House Tester" Main
+ Your Die rolls are as shown below 
+<><><><><><><><><><><><><><><><><><><>
+     1     1     1     5     5
+<><><><><><><><><><><><><><><><><><><>
+You got a Full House!
+ [̲̅$̲̅(̲̅100̲̅)̲̅$̲̅]  (▀̿Ĺ̯▀̿̿)  [̲̅$̲̅(̲̅100̲̅)̲̅$̲̅]
+
+Process finished with exit code 0
